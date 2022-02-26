@@ -3,7 +3,7 @@
 
 void	ft_print_space(int n)
 {
-	while(n > 0)
+	while (n > 0)
 	{
 		printf(" ");
 		n--;
@@ -14,15 +14,15 @@ int	main(void)
 {
 	int	n;
 	int	j;
-	int count_n;
+	int	count_n;
 
 	j = -1;
 	count_n = 1;
 	n = get_int("Weight: ");
-	while(n > 0 && n <= 8)
+	while (n > 0 && n <= 8)
 	{
 		ft_print_space(n - 1);
-		while(j != 0)
+		while (j != 0)
 		{
 			printf("#");
 			j++;
