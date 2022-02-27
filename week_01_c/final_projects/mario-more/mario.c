@@ -10,7 +10,7 @@ void	ft_space_left(int n)
 	}
 }
 
-void	ft_print_left(int count)
+void	ft_print_hash(int count)
 {
 	while (count != 0)
 	{
@@ -18,18 +18,8 @@ void	ft_print_left(int count)
 		count++;
 	}
 }
-void	ft_print_right(int j)
-{
-	int	count_right;
 
-	while (j > 0)
-	{
-		printf("#");
-		j--;
-	}
-}
-
-int main(void)
+int	main(void)
 {
 	int	n;
 	int	count;
@@ -44,9 +34,9 @@ int main(void)
 	while (n > 0 && n <= 8)
 	{
 		ft_space_left(n - 1);
-		ft_print_left(count);
+		ft_print_hash(count);
 		printf("  ");
-		ft_print_right(j);
+		ft_print_hash(count);
 		printf("\n");
 		j++;
 		count = j * -1;
