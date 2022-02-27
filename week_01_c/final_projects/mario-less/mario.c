@@ -18,7 +18,10 @@ int	main(void)
 
 	j = -1;
 	count_n = 1;
-	n = get_int("Weight: ");
+	while (!(n > 0 && n <= 8))
+	{
+		n = get_int("Weight: ");
+	}
 	while (n > 0 && n <= 8)
 	{
 		ft_print_space(n - 1);
