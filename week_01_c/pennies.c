@@ -5,7 +5,7 @@
 int	main(void)
 {
 	float	amount;
-	int		pennies;
+	int	pennies;
 
 	amount = get_float("Dollar amount: ");
 	pennies = round(amount * 100);
