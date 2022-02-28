@@ -3,7 +3,8 @@
 
 int	main(void)
 {
-	string	answer; //string data type from cs50
+	string	answer;
+
 	printf("Hello world.\n");
 	answer = get_string("What's your name? ");
 	printf("Hello, %s.\n", answer);
