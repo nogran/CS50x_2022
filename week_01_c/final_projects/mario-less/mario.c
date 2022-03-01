@@ -20,7 +20,7 @@ int	main(void)
 	count_n = 1;
 	while (!(n > 0 && n <= 8))
 	{
-		n = get_int("Weight: ");
+		n = get_int("Height: ");
 	}
 	while (n > 0 && n <= 8)
 	{
