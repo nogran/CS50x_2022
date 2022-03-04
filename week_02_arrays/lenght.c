@@ -4,7 +4,7 @@
 int	main(void)
 {
 	string	lenght;
-	int	  i;
+	int	i;
 
 	i = 0;
 	lenght = get_string("Name: ");
