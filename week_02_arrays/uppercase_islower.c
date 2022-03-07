@@ -13,14 +13,7 @@ int	main(void)
 	printf("After: ");
 	for (i = 0, n = strlen(s); i < n; i++)
 	{
-		if (islower(s[i]))
-		{
-			printf("%c", toupper(s[i]));
-		}
-		else
-		{
-			printf("%c", s[i]);
-		}
+		printf("%c", toupper(s[i]));
 	}
 	printf("\n");
 }
