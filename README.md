@@ -1,4 +1,4 @@
-<img src="https://pll.harvard.edu/sites/all/themes/hoc/static/images/harvard-logo-large.png" height="60"/> <img src="https://pll.harvard.edu/sites/default/files/styles/header/public/course/CS50x_pll.png" height="80"/>
+<a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0"/> <img src="https://pll.harvard.edu/sites/all/themes/hoc/static/images/harvard-logo-large.png" height="55"/>
 
 # CS50x_2022
 
