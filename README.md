@@ -1,9 +1,10 @@
-<a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0"> <img src="https://pll.harvard.edu/sites/all/themes/hoc/static/images/harvard-logo-large.png" height="55">
+<a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0"> <img src="https://pll.harvard.edu/sites/all/themes/hoc/static/images/harvard-logo-large.png" height="52">
 </a>
 
 # CS50x_2022
 
 Enroll here: [CS50x](https://cs50.harvard.edu/x/2022/)
+
 Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
 
 # Table Of Contents
