@@ -9,10 +9,9 @@ Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
 # Table Of Contents
 
 - :golf:[Week-1](https://github.com/nogran/CS50x_2022/tree/main/week_01_c) `[Theme: Basics of C, Greedy Algorithm, Cryptography]`
-	- Lab
+	- Lab<br/>
 		- [Hello](https://github.com/nogran/CS50x_2022/blob/main/week_01_c/hello.c)
-
-	- Problem set
+	- Problem set<br/>
 		- [Mario - Less comfortable](https://github.com/nogran/CS50x_2022/blob/main/week_01_c/final_projects/mario-less/mario.c)
 		- [Mario - More comfortable](https://github.com/nogran/CS50x_2022/blob/main/week_01_c/final_projects/mario-more/mario.c)
 
