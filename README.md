@@ -1,4 +1,4 @@
-<img src="https://pll.harvard.edu/sites/all/themes/hoc/static/images/harvard-logo-large.png" width="40"/> <img src="https://pll.harvard.edu/sites/default/files/styles/header/public/course/CS50x_pll.png" height="40"/>
+<img src="https://pll.harvard.edu/sites/all/themes/hoc/static/images/harvard-logo-large.png" height="40"/> <img src="https://pll.harvard.edu/sites/default/files/styles/header/public/course/CS50x_pll.png" height="60"/>
 
 # CS50x_2022
 
