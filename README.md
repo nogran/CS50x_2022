@@ -1,6 +1,6 @@
 # CS50x_2022
 
-- golf[Week-1](https://github.com/nogran/CS50x_2022/tree/main/week_01_c) `[Theme: Basics of C, Greedy Algorithm, Cryptography]`
+- :golf:[Week-1](https://github.com/nogran/CS50x_2022/tree/main/week_01_c) `[Theme: Basics of C, Greedy Algorithm, Cryptography]`
 	- Lab
 		- [Hello](https://github.com/nogran/CS50x_2022/blob/main/week_01_c/hello.c)
 
