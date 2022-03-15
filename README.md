@@ -1,4 +1,11 @@
+<img src="https://pll.harvard.edu/sites/all/themes/hoc/static/images/harvard-logo-large.png"width="40" height="40"/> <img src="https://pll.harvard.edu/sites/default/files/styles/header/public/course/CS50x_pll.png" width="40" height="40"/>
+
 # CS50x_2022
+
+Enroll here: [CS50x](https://cs50.harvard.edu/x/2022/)
+Instructor: [David J. Malan](https://cs.harvard.edu/malan/)
+
+# Table Of Contents
 
 - :golf:[Week-1](https://github.com/nogran/CS50x_2022/tree/main/week_01_c) `[Theme: Basics of C, Greedy Algorithm, Cryptography]`
 	- Lab
