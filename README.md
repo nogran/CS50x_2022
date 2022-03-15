@@ -1,6 +1,5 @@
 <div
-<a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0"> <img src="https://pll.harvard.edu/sites/all/themes/hoc/static/images/harvard-logo-large.png" height="55"/>
-
+<a href="https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0"/> <img src="https://pll.harvard.edu/sites/all/themes/hoc/static/images/harvard-logo-large.png" height="55"/>
 
 # CS50x_2022
 
